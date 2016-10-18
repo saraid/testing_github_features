@@ -1,1 +1,1 @@
-docdir/something.md
+../../docdir/something.md
